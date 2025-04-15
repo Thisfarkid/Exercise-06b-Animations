@@ -3,7 +3,7 @@
 # References
 
 Textures from: https://freepbr.com/
-Models and animations from: Mixamo.com
+Models and animations from: Mixamo.com and Kenny.com
 
 # Created by 
-Nathan Mishler
+Dylan Laiben
